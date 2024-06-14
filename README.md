@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a web front developer and studying rust!
 
 <!--
 **fsy0718/fsy0718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
